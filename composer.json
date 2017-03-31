@@ -1,0 +1,5 @@
+{
+  "name": "drupal/lightning_media_d500px",
+  "description": "Integrate 500px into Lightning Media",
+  "type": "drupal-module"
+}
