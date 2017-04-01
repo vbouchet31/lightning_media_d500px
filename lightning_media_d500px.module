@@ -20,6 +20,8 @@ function lightning_media_d500px_media_entity_type_info_alter(array &$types) {
       'string_long',
     ],
   ];
+  $types['d500px']['preview'] = TRUE;
+
   Override::pluginClass($types['d500px'], D500px::class);
 }
 
