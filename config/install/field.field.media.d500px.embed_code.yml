@@ -4,14 +4,12 @@ dependencies:
   config:
     - field.storage.media.embed_code
     - media_entity.bundle.d500px
-_core:
-  default_config_hash: qVsO4Adv9xucwnM0hzmAE5QJn7I0ZX1-3drP2aPbOH8
 id: media.d500px.embed_code
 field_name: embed_code
 entity_type: media
 bundle: d500px
 label: '500px post'
-description: 'Paste media post URL or embed code.'
+description: 'Paste media embed code.'
 required: true
 translatable: false
 default_value: {  }

@@ -8,8 +8,6 @@ dependencies:
     - media_entity.bundle.d500px
   module:
     - media_entity_d500px
-_core:
-  default_config_hash: KP1d3vs52bLS3MhKydiSY09ElhpB6v4NIBoedbz1sNM
 id: media.d500px.embedded
 targetEntityType: media
 bundle: d500px
@@ -19,9 +17,7 @@ content:
     type: d500px_embed
     weight: 0
     label: hidden
-    settings:
-      width: '480'
-      height: '640'
+    settings: {  }
     third_party_settings: {  }
 hidden:
   created: true

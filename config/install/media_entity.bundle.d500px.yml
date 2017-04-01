@@ -3,8 +3,6 @@ status: true
 dependencies:
   module:
     - media_entity_d500px
-_core:
-  default_config_hash: RKBv0k6Y2A-m4NuXX8kjpeCKT769CWVY6L3OqO0E-bg
 id: d500px
 label: 500px
 description: '500px posts.'
